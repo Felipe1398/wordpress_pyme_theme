@@ -1,4 +1,5 @@
 === Pyme ===
+
 Contribuidores: José Felipe Gómez Quesada, Eduard Alberto Arauz Rivera
 Requiere al menos: WordPress 6.1.1
 Requiere PHP: 7.4
@@ -26,21 +27,27 @@ Es una excelente opción para vender cualquier cosa en linea, con un diseño res
 Sí! Pyme es un tema gratis y siempre va a serlo.
 
 = Existe una versión premium de este tema? =
+
 No, todas las carácteristicas de este tema son gratuitas
 
 = Dónde puedo encontrar documentación? =
+
 Puede encontrar documentación y manuales aquí [here](https://github.com/Felipe1398/wordpress_pyme_theme).
 
 = El tema posee soporte? =
+
 Sí. Si necesita soporte escriba al correo felipegomez1398@outlook.com.
 
 = Dónde puedo encontrar las opciones del tema? =
+
 Todas las opciones estàn disponibles en 'Apariencia > Personalizar'.
 
 = Este tema tiene areas de widgets? =
+
 Sí. Pyme has 2 áreas para widgets que puede encontrar en Apariencia > Widgets.
 
 = How can I make my site look like your screenshot? =
+
 If you want to replicate the screenshot you see on WordPress.org, follow the instructions available on [our official documentation](https://fancy-lab.gitbook.io).
 
 
