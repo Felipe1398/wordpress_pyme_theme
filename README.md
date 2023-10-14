@@ -1,14 +1,14 @@
 === Pyme ===
 
-Contribuidores: José Felipe Gómez Quesada - @Felipe1398, Eduard Alberto Arauz Rivera - @Eduard2799
-Requiere al menos: WordPress 6.1.1
-Requiere PHP: 7.4
-Probado en: WordPress 6.1.1
-Versión: 1.0
-Tag estable: 1.0
-Licencia: GNU General Public License v2 o posterior
-Licencia URI: LICENSE
-Tags: e-commerce, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, translation-ready, blog, right-sidebar, sticky-post, threaded-comments
+Contribuidores: José Felipe Gómez Quesada - @Felipe1398, Eduard Alberto Arauz Rivera - @Eduard2799 <br />
+Requiere al menos: WordPress 6.1.1 <br />
+Requiere PHP: 7.4 <br />
+Probado en: WordPress 6.1.1 <br />
+Versión: 1.0 <br />
+Tag estable: 1.0 <br />
+Licencia: GNU General Public License v2 o posterior <br />
+Licencia URI: LICENSE <br />
+Tags: e-commerce, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, translation-ready, blog, right-sidebar, sticky-post, threaded-comments <br />
 
 == Descripción ==
 
