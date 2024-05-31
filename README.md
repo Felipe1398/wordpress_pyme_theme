@@ -45,7 +45,7 @@ Todas las opciones están disponibles en 'Apariencia > Personalizar'.
 
 = Este tema tiene areas de widgets? =
 
-Sí. Pyme has 2 áreas para widgets que puede encontrar en Apariencia > Widgets.
+Sí. Pyme tiene 2 áreas para widgets que puede encontrar en Apariencia > Widgets.
 
 == Copyright ==
 
